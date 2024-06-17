@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}范数}{1}{}%
+\contentsline {subsection}{\numberline {1.1}范数公理}{1}{}%
+\contentsline {subsection}{\numberline {1.2}范数公理简化}{1}{}%
+\contentsline {section}{\numberline {2}仿射集合}{1}{}%
+\contentsline {subsection}{\numberline {2.1}仿射集合定义}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}二点仿射集合定义}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}多点仿射集合定义}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}子空间}{2}{}%
+\contentsline {subsection}{\numberline {2.2}线性方程组的解集}{3}{}%
+\contentsline {section}{\numberline {3}凸包与凸锥}{3}{}%
+\contentsline {section}{\numberline {4}G可微 与 F可微}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Gateaux可导(弱可导)}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Freschet可导(强可导)}{4}{}%
+\contentsline {subsection}{\numberline {4.3}F-可微与连续}{4}{}%
+\contentsline {subsection}{\numberline {4.4}复合映射的求导法则(链锁规则)}{5}{}%
+\contentsline {section}{\numberline {5}中值定理}{5}{}%
+\contentsline {subsection}{\numberline {5.1}中值定理不等式}{5}{}%
+\contentsline {subsection}{\numberline {5.2}积分中值定理}{6}{}%
+\contentsline {section}{\numberline {6}Holder连续}{6}{}%
+\contentsline {section}{\numberline {7}凸泛函}{7}{}%
+\contentsline {section}{\numberline {8}同胚映射——向量值扰动定理}{8}{}%
+\contentsline {section}{\numberline {9}迭代格式的构造}{9}{}%
+\contentsline {section}{\numberline {10}Ostrowski 定理}{10}{}%
+\contentsline {section}{\numberline {11}Kantorovich 定理}{11}{}%
+\contentsline {section}{\numberline {12}非精确Newton法}{12}{}%
